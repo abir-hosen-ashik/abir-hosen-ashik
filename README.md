@@ -1,72 +1,69 @@
-# Hi, I'm Abir Hosen 👋
+# 👋 Hi, I'm Abir Hosen
 
-I'm a **Full-Stack Software Engineer** and AI enthusiast from **Bangladesh**.  
-I specialize in building **complex ERP systems**, AI-powered tools, and modern web applications.  
+Full-Spectrum Software Engineer focused on **distributed systems, real-time applications, and AI-powered platforms**.
 
-💻 **Tech Stack & Expertise:**  
-
-### Backend
-- **Languages & Frameworks:** NestJS, Spring Boot, FastAPI, Node.js, Express  
-- **Databases:** PostgreSQL, Prisma ORM, MySQL  
-- **APIs & Architecture:** RESTful APIs, GraphQL, Microservices, Multi-tenant systems  
-
-### Frontend
-- **Frameworks:** React, AngularJS  
-- **Admin Panels:** Custom AdminJS components for ERP & dashboards  
-
-### AI & Machine Learning
-- **LLMs & Integrations:** RAG, MCP, GPT-based AI solutions  
-- **Audio & Media:** Stable Audio integrations  
-
-### DevOps & Infrastructure
-- CI/CD, Docker, Kubernetes basics, multi-tenant deployments, SaaS architectures  
+I enjoy building scalable backend systems, event-driven architectures, and intelligent applications that solve real-world business problems.
 
 ---
 
-## 🛠️ Notable Projects
+## 🚀 What I Build
 
-### **Tiger ERP**
-- Full-fledged ERP system with **inventory, manufacturing, accounting, sales, and purchase modules**  
-- Built multi-tenant architecture with **role-based access control** and real-time dashboards  
-
-### **Roboket AI**
-- AI-powered tools using **RAG and LLM integrations** for intelligent solutions  
-- Focused on automation and business intelligence  
-
-### **Jamahook**
-- Collaborative platform integrating **real-time communication and AI assistance**  
-- Optimized for scalability and enterprise usage  
-
-### **Probashkormi & SoftCollab**
-- Social and productivity platforms with backend APIs and frontend dashboards  
-- Integrated authentication, authorization, and database optimizations  
+- 🛺 Ride-sharing & mobility platforms (real-time tracking, dispatch systems)
+- 🎓 EdTech systems (live classes, booking, payments)
+- 🏢 ERP & enterprise solutions
+- 🤖 AI-powered systems (LLMs, RAG, automation, agents)
+- ⚡ Real-time communication platforms (WebSockets, RTC)
 
 ---
 
-## 📊 Skills & Strengths
+## ⚙️ Tech Stack
 
-- **Backend Development:** Enterprise-grade APIs, multi-tenant SaaS, NestJS/Prisma mastery  
-- **Frontend Development:** React & AngularJS, dynamic dashboards, interactive UI  
-- **Database Design:** PostgreSQL schemas, relationships, triggers, batch processing  
-- **AI Integration:** GPT, LLMs, RAG, MCP, AI-assisted automation  
-- **DevOps & Deployment:** CI/CD pipelines, containerization, scalable architectures  
-- **Soft Skills:** Detail-oriented, clean code advocate, scalable system design, mentoring  
-
----
-
-## 🌟 Achievements & Interests
-- Built several ERP and AI platforms from scratch  
-- Strong focus on **clean architecture, maintainable code, and scalable systems**  
-- Mentoring students and junior developers in programming and AI  
-- Interested in **AI, cloud computing, and enterprise software solutions**  
+**Backend:** NestJS, Node.js, Spring Boot, FastAPI  
+**Frontend:** React.js, TailwindCSS  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Architecture:** Microservices, Event-Driven Systems, REST APIs  
+**Messaging:** RabbitMQ, Kafka, WebSockets  
+**AI/ML:** LLM, RAG, MCP, SpaCy, Scikit-learn  
+**DevOps:** Docker, AWS, Render  
+**Tools:** Git, VS Code  
 
 ---
 
-## 📫 Connect with Me
-- **GitHub:** [github.com/AbirHosen](https://github.com/AbirHosen)  
-- **LinkedIn:** [linkedin.com/in/AbirHosen](https://linkedin.com/in/AbirHosen)  
-- **Email:** abir@example.com  
+## 🧠 Highlights
+
+- Built **10+ microservice systems** using NestJS monorepo architecture  
+- Designed **event-driven distributed systems** with RabbitMQ + TCP communication  
+- Developed **real-time systems** using WebSockets, Mapbox, and Agora RTC  
+- Built automation pipelines using **workers, queues, and background jobs**  
+- Worked on AI-integrated systems using **LLM, RAG, and NLP pipelines**
 
 ---
 
-> "Curiosity, dedication, and continuous learning are the keys to building intelligent solutions." 🚀
+## 🧩 Focus Areas
+
+- Distributed Systems Design  
+- Real-time Communication Systems  
+- Scalable Backend Architecture  
+- AI + Backend Integration  
+- System Design & Engineering Leadership  
+
+---
+
+## 📌 Featured Work
+
+🚖 **Allogo** – Ride-sharing & marketplace platform  
+🎓 **Mehad** – EdTech platform with live RTC + payments  
+🌍 **Probashkormi** – Recruitment platform  
+🤖 **Query AI** – NLP-based SQL generation system  
+🎥 **SoftCollab** – Real-time collaboration backend  
+
+---
+
+## 📫 Contact
+
+- Email: abir71.hosen@gmail.com  
+- LinkedIn: linkedin.com/in/abir-hosen-ashik  
+
+---
+
+💡 *“I like building systems that scale, communicate, and think intelligently.”*
